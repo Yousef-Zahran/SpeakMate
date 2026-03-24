@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SpeakMate.API/SpeakMate.API.csproj" />
+  <Project Path="SpeakMate.Core/SpeakMate.Core.csproj" />
+  <Project Path="SpeakMate.Infrastructure/SpeakMate.Infrastructure.csproj" />
+</Solution>
